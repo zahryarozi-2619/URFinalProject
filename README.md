@@ -28,7 +28,7 @@ El juego evoluciona paso a paso, y el estado de cada célula cambia según las c
 
 <table>
   <tbody>
-    <td align="center" valign="top" width="24.28%"> <strong> <a href="https://github.com/JULIXPR00" target="_blank">Julian Leon </a> </strong> </td>
+    <td align="center" valign="top" width="24.28%"> <img src="https://avatars.githubusercontent.com/u/204223483?v=4" width="100%" alt="JL icon"> <strong> <a href="https://github.com/JULIXPR00" target="_blank">Julian Leon </a> </strong> </td>
     <td align="center" valign="top" width="24.28%"> <img src="https://avatars.githubusercontent.com/u/81392903?v=4" width="100%" alt="JM icon"> <strong> <a href="https://github.com/zahryarozi-2619" target="_blank"> Juan Martinez </a> </strong> </td>
     <td align="center" valign="top" width="24.28%"> <img src="https://avatars.githubusercontent.com/u/201385111?v=4" width="100%" alt="VO icon"> <strong> <a href="https://github.com/vy-moshii" target="_blank"> Valery Ortegon </a> </strong> </td>
     <td align="center" valign="top" width="24.28%"> <strong> <a href="https://github.com/vy-moshii" target="_blank"> Luisa Gutierrez </a> </strong> </td>
