@@ -20,6 +20,15 @@ Las células de una cuadrícula viven, mueren o se reproducen según unas sencil
 El juego evoluciona paso a paso, y el estado de cada célula cambia según las células circundantes, creando patrones complejos a partir de reglas sencillas.
 
 
-## References
+## Referencias
 * Wong, H. W. (s. f.). John Horton Conway: the mathematician who made math fun | Science Focus. Recuperado 20 de marzo de 2025, de [https://sciencefocus.hkust.edu.hk/john-horton-conway](https://sciencefocus.hkust.edu.hk/john-horton-conway)
 </center>
+
+## Hecho Por:
+
+<table>
+  <tbody>
+    <td align="center" valign="top" width="24.28%"> Julian </br> Leon </td>
+    <td align="center" valign="top" width="24.28%"> Juan </br> Martinez </td>
+    <td align="center" valign="top" width="24.28%"> Valery </br> Ortegon </td>
+    <td align="center" valign="top" width="24.28%"> Luisa </br> Gutierrez </td>
